@@ -1,5 +1,6 @@
 # Peterbot
-This robo-guy will be pleased to let you know about Bridge openings in Saint-Petersburg!
+
+This robo-guy will be pleased to let you know about Bridge openings in Saint Petersburg!
 
 ## Requirements
 
@@ -18,4 +19,5 @@ This robo-guy will be pleased to let you know about Bridge openings in Saint-Pet
 6. Create ```config.yaml``` file from a temaplate
 
 Run server: ```make action-server```
+
 Run console client: ```make cmdline```
